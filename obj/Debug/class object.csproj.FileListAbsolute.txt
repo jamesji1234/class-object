@@ -1,0 +1,10 @@
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\bin\Debug\class object.exe.config
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\bin\Debug\class object.exe
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\bin\Debug\class object.pdb
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\obj\Debug\class object.csprojResolveAssemblyReference.cache
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\obj\Debug\class_object.Form1.resources
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\obj\Debug\class_object.Properties.Resources.resources
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\obj\Debug\class object.csproj.GenerateResource.Cache
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\obj\Debug\class object.csproj.CoreCompileInputs.cache
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\obj\Debug\class object.exe
+D:\ทบทวนสอบอาจารย เก่งๆ\class object\class object\obj\Debug\class object.pdb
